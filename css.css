@@ -2,7 +2,7 @@ body {
   margin: 0;
   background-color: hsl(225, 100%, 94%);
   text-align: center;
-  width: 1440px;
+
   font-size: 16px;
   font-family: 'Red Hat Display', sans-serif;
 }
@@ -21,7 +21,7 @@ h5 {
   background-color: white;
   position: absolute;
   width: 25%;
-  height: 85%;
+  height: 80%;
   top: 70px;
   left: 580px;
   border-radius: 15px;
